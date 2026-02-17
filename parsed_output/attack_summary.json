@@ -1,0 +1,65 @@
+[
+  {
+    "source_ip": "192.168.1.105",
+    "attack_type": "BRUTE_FORCE",
+    "failed_logins": 47,
+    "successful_logins": 0,
+    "first_seen": "2024-01-15T08:23:41Z",
+    "last_seen": "2024-01-15T08:31:22Z",
+    "session_count": 3
+  },
+  {
+    "source_ip": "10.0.0.55",
+    "attack_type": "COMPROMISED",
+    "failed_logins": 12,
+    "successful_logins": 1,
+    "first_seen": "2024-01-15T09:45:00Z",
+    "last_seen": "2024-01-15T10:12:33Z",
+    "session_count": 2
+  },
+  {
+    "source_ip": "172.16.0.88",
+    "attack_type": "RECON",
+    "failed_logins": 3,
+    "successful_logins": 0,
+    "first_seen": "2024-01-15T11:00:15Z",
+    "last_seen": "2024-01-15T11:00:45Z",
+    "session_count": 1
+  },
+  {
+    "source_ip": "192.168.2.201",
+    "attack_type": "BRUTE_FORCE",
+    "failed_logins": 89,
+    "successful_logins": 0,
+    "first_seen": "2024-01-15T12:15:00Z",
+    "last_seen": "2024-01-15T12:45:30Z",
+    "session_count": 5
+  },
+  {
+    "source_ip": "10.10.10.42",
+    "attack_type": "COMPROMISED",
+    "failed_logins": 8,
+    "successful_logins": 2,
+    "first_seen": "2024-01-15T14:00:00Z",
+    "last_seen": "2024-01-15T15:30:00Z",
+    "session_count": 4
+  },
+  {
+    "source_ip": "192.168.100.15",
+    "attack_type": "RECON",
+    "failed_logins": 1,
+    "successful_logins": 0,
+    "first_seen": "2024-01-15T16:22:10Z",
+    "last_seen": "2024-01-15T16:22:15Z",
+    "session_count": 1
+  },
+  {
+    "source_ip": "172.20.0.100",
+    "attack_type": "BRUTE_FORCE",
+    "failed_logins": 156,
+    "successful_logins": 1,
+    "first_seen": "2024-01-15T18:00:00Z",
+    "last_seen": "2024-01-15T19:45:00Z",
+    "session_count": 8
+  }
+]

@@ -1,0 +1,17 @@
+[
+  { "command": "uname -a", "count": 45, "category": "reconnaissance" },
+  { "command": "cat /etc/passwd", "count": 38, "category": "credential_access" },
+  { "command": "wget", "count": 32, "category": "download" },
+  { "command": "chmod +x", "count": 28, "category": "execution" },
+  { "command": "curl", "count": 25, "category": "download" },
+  { "command": "whoami", "count": 22, "category": "reconnaissance" },
+  { "command": "id", "count": 20, "category": "reconnaissance" },
+  { "command": "cat /etc/shadow", "count": 18, "category": "credential_access" },
+  { "command": "ps aux", "count": 15, "category": "reconnaissance" },
+  { "command": "netstat -an", "count": 12, "category": "reconnaissance" },
+  { "command": "ls -la", "count": 55, "category": "reconnaissance" },
+  { "command": "cd /tmp", "count": 42, "category": "navigation" },
+  { "command": "rm -rf", "count": 8, "category": "destruction" },
+  { "command": "history", "count": 6, "category": "reconnaissance" },
+  { "command": "crontab", "count": 4, "category": "persistence" }
+]

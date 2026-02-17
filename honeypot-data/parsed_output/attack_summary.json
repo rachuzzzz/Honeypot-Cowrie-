@@ -1,0 +1,20 @@
+[
+  {
+    "ip": "10.0.2.2",
+    "attack_type": "BRUTE_FORCE",
+    "failed_logins": 5,
+    "succesful_login": false,
+    "unique_sessions": 14,
+    "first_seen": "2026-01-21T08:56:44.610300",
+    "last_seen": "2026-01-28T09:14:17.149377"
+  },
+  {
+    "ip": "127.0.0.1",
+    "attack_type": "BRUTE_FORCE",
+    "failed_logins": 2,
+    "succesful_login": false,
+    "unique_sessions": 1,
+    "first_seen": "2026-01-17T15:20:46.921784",
+    "last_seen": "2026-01-17T15:22:46.985294"
+  }
+]

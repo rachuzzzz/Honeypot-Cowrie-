@@ -1,0 +1,50 @@
+[
+  [
+    "sudo",
+    6
+  ],
+  [
+    "ls",
+    6
+  ],
+  [
+    "cat",
+    2
+  ],
+  [
+    "exit",
+    2
+  ],
+  [
+    "sudo apt install",
+    2
+  ],
+  [
+    "mkdir",
+    1
+  ],
+  [
+    "sudo apt update",
+    1
+  ],
+  [
+    "ola",
+    1
+  ],
+  [
+    "x",
+    1
+  ],
+  [
+    "hallo",
+    1
+  ],
+  [
+    "ls -la",
+    1
+  ],
+  [
+    "mkdir hello",
+    1
+  ]
+]
